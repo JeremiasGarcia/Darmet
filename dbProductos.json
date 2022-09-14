@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "timestamp": "14/09/2022 14:14:17",
+    "nombre": "Mouse",
+    "descripcion": "Mouse Logitech G403Hero",
+    "codigo": "aad123r5",
+    "foto": "https://www.google.com/search?q=mouse&sxsrf=ALiCzsZ6h_7VdX5E319OImNPoDCLb9-v7A:1661189358978&source=lnms&tbm=isch&sa=X&ved=2ahUKEwij15XN_Nr5AhUXqZUCHT2JB9oQ_AUoAXoECAMQAw&biw=1920&bih=937&dpr=1#imgrc=h5I6Ls0Ym2nqzM",
+    "precio": 100,
+    "stock": 10
+  },
+  {
+    "id": 2,
+    "timestamp": "14/09/2022 02:43:03"
+  },
+  {
+    "id": 3,
+    "timestamp": "14/09/2022 02:43:44"
+  },
+  {
+    "id": 4,
+    "timestamp": "14/09/2022 02:46:58"
+  },
+  {
+    "id": 5,
+    "timestamp": "14/09/2022 02:47:13"
+  },
+  {
+    "id": 6,
+    "timestamp": "14/09/2022 02:47:47"
+  },
+  {
+    "id": 7,
+    "timestamp": "14/09/2022 02:48:33"
+  },
+  {
+    "id": 8,
+    "timestamp": "14/09/2022 02:49:21"
+  }
+]
